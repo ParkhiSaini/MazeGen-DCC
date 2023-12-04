@@ -1,0 +1,17 @@
+{
+    "name": "com.pixelproductions.maze-generator",
+    "version": "1.0.0",
+    "displayName": "Procedural Maze Generator",
+    "description": "Generate mazes seamlessly using this package",
+    "unity": "2021.3",
+    "keywords": [
+        "maze",
+        "procedural",
+        "generation"
+    ],
+    "author": {
+        "name": "Pixel",
+        "email": "parkhi.saini2401@gmail.com",
+        "url": "https://pixelproductions4.artstation.com/"
+    }
+}       
